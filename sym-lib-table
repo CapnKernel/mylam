@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "mylam")(type "KiCad")(uri "${KIPRJMOD}/mylam.kicad_sym")(options "")(descr ""))
+  (lib (name "tinypico")(type "KiCad")(uri "/tmp/tinypico.kicad_sym")(options "")(descr ""))
+  (lib (name "vl6180x_adafruit-sensors")(type "KiCad")(uri "/tmp/vl6180x_adafruit-sensors.kicad_sym")(options "")(descr ""))
+)
